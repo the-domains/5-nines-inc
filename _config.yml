@@ -1,0 +1,14 @@
+layout_spectrum: 0.9235908379778266
+typography_spectrum: 0.47883553383871913
+color:
+  brandStrength: 0.3931352333165705
+  lightness: 0.21950970427133143
+  saturation: 0.6513380182441324
+  rhythmicContrast: 0.6605401639826596
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: 5 Nines Inc
